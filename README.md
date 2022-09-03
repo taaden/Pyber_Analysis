@@ -8,6 +8,10 @@
        * A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
        * Finally an annotated chart was created showing the total fares by city type and saved to the "analysis" folder.
 #### Results
+       * Total Rides by city type: Urban city type has the most rides(1,625), 13 times the total ride of the Rural city type which has least number of rides(125).The              Suburban city type has 625 rides, 5 times the number of ride for the Rural city .
+       * Total Drivers by city type: Urban city type has the most drivers with 2,405,about 31 times the total drivers of the Rural city type  which has the least number          of total drivers by city type of 78 drivers,the total drivers of the suburban city type is 490 drivers, a 6.3 times the Rural city type`s total drivers value.
+       * Total Fare by city type : Urban city fare constitute 62,73% of total fare for PyBer($39,854.38) The Suburban city type provided 30.46% of the total Fare for              PyBer ($19,356.33).The Rural city fare constitute 6.81% of the total fare for Pyber ($4,327.93)
+      
        
  
    
