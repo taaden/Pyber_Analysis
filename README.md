@@ -23,6 +23,16 @@
          
        * Average Fare Per Driver by city type: Here the Rural city type again have the highest average fare per driver of $55.49,followed by 
          the Suburban city type's average fare per Driver of $39.50 and the Urban city has the Average fare per driver of $16.57
+         
+  ##### Summary
+        *The Total Rides for the Rural city type  and the Suburban are so low compared to the Urban city type, i will recommend an aggresive media campaign to                  increase the use for PyBer in the sububan and rural cities.
+        
+        *The Average Fare Per Ride  and the Average Fare Per Driver is highest in the Rural city type and also high in the suburban city type, these could be use in             advertising campaign to attract more driversto take expected increase total ride in the rural cities
+         
+        *Since the Total Rides ,Total Drivers and Total Fare by city type is highest in the Urban city type, i will recommed a reward incentive for the Urban city
+          type`s drivers as they constitue  80.9% of the total drivers pool of PyBer to maintain and increase market share
+        
+  
       
        
  
