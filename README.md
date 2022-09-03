@@ -17,6 +17,12 @@
          
        * Total Fare by city type : Urban city fare constitute 62,73% of total fare for PyBer($39,854.38) The Suburban city type provided 30.46% of 
          the total Fare for PyBer ($19,356.33).The Rural city fare constitute 6.81% of the total fare for Pyber ($4,327.93)
+         
+       * Average Fare Per Ride by city type: Here Rural city type actually have the highest average fare per ride of $34.62,
+         followed by the Suburban city type`s average fare per ride of $30.97 and the Urban city type has the Average fare per ride of $24.53
+         
+       * Average Fare Per Driver by city type: Here the Rural city type again have the highest average fare per driver of $55.49,followed by 
+         the Suburban city type's average fare per Driver of $39.50 and the Urban city has the Average fare per driver of $16.57
       
        
  
