@@ -1,16 +1,16 @@
 # PyBer_Analysis
 
 ## Overview of the Analysis
-   * The purpose of the new analysis is to create a multiple-line graph that shows the total weekly fares for each city type.
+      * The purpose of the new analysis is to create a multiple-line graph that shows the total weekly fares for each city type.
    
 ###   The Analysis entails
-       * Creating a DataFrame using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column 
+       *  Creating a DataFrame using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column 
          to show the total fare amount for each date and time. 
-       * Another DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and 
+       *  Another DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and 
           the values are the "fare." 
-       * A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28. 
-       * A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
-       * Finally an annotated chart was created showing the total fares by city type and saved to the "analysis" folder.
+       *  A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28. 
+       *  A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
+       *  Finally an annotated chart was created showing the total fares by city type and saved to the "analysis" folder.
        
 #### Results
        * Total Rides by city type: Urban city type has the most rides(1,625), 13 times the total ride of the Rural city type which has
@@ -32,13 +32,13 @@
          ![PyBer_DataFrame](https://user-images.githubusercontent.com/64270455/188285953-a0ed1751-1c1a-4eeb-b986-5a32597b8b9b.png)
 
   ##### Summary
-        *The Total Rides for the Rural city type  and the Suburban are so low compared to the Urban city type, i will recommend
-         an aggresive media campaign to increase the use for PyBer in the sububan and rural cities.
+        * The Total Rides for the Rural city type  and the Suburban are so low compared to the Urban city type, i will recommend
+          an aggresive media campaign to increase the use for PyBer in the sububan and rural cities.
         
-        *The Average Fare Per Ride  and the Average Fare Per Driver is highest in the Rural city type and also high in the suburban city type,
-         these could be use in advertising campaign to attract more driversto take expected increase total ride in the rural cities
+        * The Average Fare Per Ride  and the Average Fare Per Driver is highest in the Rural city type and also high in the suburban city type,
+          these could be use in advertising campaign to attract more driversto take expected increase total ride in the rural cities
          
-        *Since the Total Rides,Total Drivers and Total Fare by city type is highest in the Urban city type, i will recommed a reward incentive
+        * Since the Total Rides,Total Drivers and Total Fare by city type is highest in the Urban city type, i will recommed a reward incentive
           for the Urban city type`s drivers as they constitue  80.9% of the total drivers pool of PyBer to maintain and increase market share
         
   
